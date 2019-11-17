@@ -1,4 +1,4 @@
-# Ublox NEO-6M Raw Data
+# Ublox NEO-6M Raw Data (firmware version 7.03)
 
 **RTKLIB Startup Commands**
 
