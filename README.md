@@ -2,7 +2,7 @@
 
 **Hardware**
 
-1. Ublox NEO-6M board
+1. Ublox NEO-6M board / GPS Antenna
 
 2. ESP32 board
 
